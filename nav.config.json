@@ -21,6 +21,12 @@
       "nav_url": "index.php?page=Mantenimientos-Productos-Productos",
       "nav_label":"<i class=\"fas fa-table\"></i>&nbsp;WW Productos"
     },
+
+    {
+      "id": "Menu_Inventory",
+      "nav_url": "index.php?page=Inventory-InventoryList",
+      "nav_label": "<i class=\"fas fa-warehouse\"></i>&nbsp;Inventario"
+    },
     
     {
       "id": "Menu_Vehiculos",
