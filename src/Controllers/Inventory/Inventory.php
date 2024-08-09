@@ -149,7 +149,7 @@ class Inventory extends \Controllers\PublicController
                     if ($deleted) {
                         Site::redirectToWithMsg(
                             "index.php?page=Inventory-InventoryList",
-                            "Inventario eliminado exitosamente."
+                            "Inventario eliminado."
                         );
                     }
                     break;
