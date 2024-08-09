@@ -1,0 +1,40 @@
+{
+  "public": [
+    {
+      "id": "Menu_SignIn",
+      "nav_url": "index.php?page=Sec_Login",
+      "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Iniciar Sesión"
+    },
+     {
+      "id": "Menu_SignUp",
+      "nav_url": "index.php?page=Sec_Register",
+      "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Crear Cuenta"
+    },
+    {
+      "id": "Menu_Prod_Oferta",
+      "nav_url": "index.php?page=Landing-ProductosOferta",
+      "nav_label":"Ofertas"
+    },
+
+    {
+      "id": "Menu_Products",
+      "nav_url": "index.php?page=Mantenimientos-Productos-Productos",
+      "nav_label":"<i class=\"fas fa-table\"></i>&nbsp;WW Productos"
+    },
+    
+    {
+      "id": "Menu_Vehiculos",
+      "nav_url": "index.php?page=Vehiculos_Vehiculos",
+      "nav_label": "<i class=\"fas fa-car\"></i>&nbsp;Vehículos"
+    }
+    
+  ],
+
+  "private": [
+    {
+      "id":"Menu_PaymentCheckout",
+      "nav_url": "index.php?page=Checkout_Checkout",
+      "nav_label": "Carretilla de Compra"
+    }
+  ]
+}
