@@ -23,8 +23,8 @@
     },
 
     {
-      "id": "Menu_Inventory",
-      "nav_url": "index.php?page=Inventory-InventoryList",
+      "id": "Menu_Inventario",
+      "nav_url": "index.php?page=Inventario-Inventarios",
       "nav_label": "<i class=\"fas fa-warehouse\"></i>&nbsp;Inventario"
     },
     

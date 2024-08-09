@@ -72,6 +72,9 @@ abstract class Table
         return $query->fetchAll();
     }
 
+
+
+
     protected static function obtenerUnRegistro($sqlstr, $params, &$conn = null)
     {
         $pConn = null;
